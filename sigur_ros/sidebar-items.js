@@ -1,0 +1,1 @@
+initSidebarItems({"fn":[["Album1999",""],["Album2002",""],["Album2004",""],["Album2006",""],["Album2008",""],["Album2009",""],["Album2012",""],["Album2013",""]],"struct":[["Kveikur",""],["Me_su_eyrum_vi_spilum_endalaust",""],["Sæglópur",""],["Takk",""],["Valtari",""],["Von",""],["Ágtis_byrjun",""]]});
